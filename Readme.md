@@ -7,7 +7,7 @@ Hi there 👋, I'm Alexey Volkov
 - **Frontend:** React ❤️, Vanilla JavaScript (ES6+), TypeScript, HTML5, CSS;
 - **Styling:** SCSS/LESS;
 - **State management:** Redux / Redux Toolkit;
-- **Backend:** Python, SQL, Docker;
+- **Backend:** Python, Django/DRF,  SQL, Docker;
 - **Testing libraries:** Jest, React Testing Library, Cypress, loki.js;
 - **Code bundlers:** Gulp, Webpack, Vite;
 - **UX/UI:** Figma.
