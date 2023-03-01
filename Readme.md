@@ -1,6 +1,6 @@
 Hi there 👋, I'm Alexey Volkov
 
-Добро пожаловать на мой GitHub page! Я начинающий frontend и backand-developer.
+Добро пожаловать на мой GitHub page! Я frontend и backand-developer.
 
 ### 🛠️ My tech stack:
 
